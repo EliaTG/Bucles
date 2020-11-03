@@ -1,0 +1,13 @@
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\bin\Debug\netcoreapp3.1\Estructuras-repetitivas.exe
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\bin\Debug\netcoreapp3.1\Estructuras-repetitivas.deps.json
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\bin\Debug\netcoreapp3.1\Estructuras-repetitivas.runtimeconfig.json
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\bin\Debug\netcoreapp3.1\Estructuras-repetitivas.runtimeconfig.dev.json
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\bin\Debug\netcoreapp3.1\Estructuras-repetitivas.dll
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\bin\Debug\netcoreapp3.1\Estructuras-repetitivas.pdb
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.csprojAssemblyReference.cache
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.AssemblyInfoInputs.cache
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.AssemblyInfo.cs
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.csproj.CoreCompileInputs.cache
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.dll
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.pdb
+C:\Users\Elith\OneDrive\Desktop\Estructuras-repetitivas\obj\Debug\netcoreapp3.1\Estructuras-repetitivas.genruntimeconfig.cache
