@@ -30,39 +30,16 @@ Console.WriteLine("Tienes {0} cifras ",cifras);
 //var randomNum = new Random(1,20);
 //Console.WriteLine("randomNum");
 /*
-do
-{
-Console.WriteLine("Adivine el numero: ");
-num1 = int.Parse(Console.ReadLine());
-chance = chance - 1;
-if (chance == 0)
-{
-   if (num1 == valor)
-   {
-      Console.WriteLine("Ganaste el numero es {0}",valor); 
-   } if (num1 != valor)
-   {
-       Console.WriteLine("Perdiste intente de nuevo");
-   }
-} 
-}while (num1 != valor);
-
-
 int num1, chance = 3, valor = 20;
 while (chance < 3)
 {
 Console.WriteLine("Adivine el numero: ");
 num1 = int.Parse(Console.ReadLine());
 chance = chance + 1;
-if (valor > num1)
-{
-
 }
-
-{
 Console.WriteLine("Ganaste el numero es {0}",valor); 
-}
-}
+
+
 
 */
 //Ejercicio #4
@@ -77,6 +54,7 @@ Console.WriteLine(n);
 //Ejercicio #5
 /*Crear un programa que pida números positivos al usuario, y vaya calculando la suma de
 todos ellos (terminará cuando se teclea un número negativo o cero). */
+/*   
 int numero,result;
 Console.WriteLine("Ingrese un numero(0 para salir o un numero negativo):");
  numero = int.Parse(Console.ReadLine());
@@ -93,7 +71,7 @@ if (numero == 0 || numero < 0)
 Console.WriteLine("Resultado de los numeros positivos ingresado {0}",result); 
 }
 }
-
+*/
 // int num_positivo;
 // int num_positivo2;
 // int result;
