@@ -54,45 +54,6 @@ Console.WriteLine(n);
 //Ejercicio #5
 /*Crear un programa que pida números positivos al usuario, y vaya calculando la suma de
 todos ellos (terminará cuando se teclea un número negativo o cero). */
-/*   
-int numero,result;
-Console.WriteLine("Ingrese un numero(0 para salir o un numero negativo):");
- numero = int.Parse(Console.ReadLine());
-//   printf("Teclea un número (0 para salir): ");
-//   scanf("%d", &numero);
-while (numero!=0 && numero > 0){
-result =+ numero;
-Console.WriteLine("Ingrese un numero(0 para salir o un numero negativo)");
-numero = int.Parse(Console.ReadLine());
-//Console.WriteLine("Valor {0}",);
-Console.Write(result);
-if (numero == 0 || numero < 0)
-{
-Console.WriteLine("Resultado de los numeros positivos ingresado {0}",result); 
-}
-}
-*/
-// int num_positivo;
-// int num_positivo2;
-// int result;
-
-    
-
-// Console.WriteLine("Ingrese un numero positivo: ");
-// num_positivo = int.Parse(Console.ReadLine());
-// do
-// {
-// Console.WriteLine("Ingrese un numero positivo: ");
-// num_positivo2 = int.Parse(Console.ReadLine());
-// result = num_positivo + num_positivo2;
-// if(num_positivo2 ==  ){
-// Console.WriteLine("Ingrese un numero positivo: ");
-// }
-
-// } while (num_positivo != 0);
-// Console.WriteLine("La suma es igual a {0}",result);
-
-//
 /*
 int num1;
 int num2;
@@ -148,9 +109,11 @@ Console.WriteLine("clave ({0}) y cedula ({0}) correcta!!",clave,cedula);
 //Ejercicio #7
 //Crear un programa que muestre los primeros ocho números pare
 //(tips: en cada pasada habrá que aumentar de 2 en 2, o bien mostrar el doble del valor que hace de contador). 
-
-//int num1, pares;
-
+/*
+ for (int i=0; i<=16; i=i+2){ 
+Console.Write("{0} ", i);
+}
+*/
 
 
 //Ejercicio #8
