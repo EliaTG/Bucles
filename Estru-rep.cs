@@ -26,22 +26,30 @@ Console.WriteLine("Tienes {0} cifras ",cifras);
 */
 //Ejercicio #3
 //Crear un programa que dé al usuario tres oportunidades para adivinar un número del 1 al 23. 
-
-//var randomNum = new Random(1,20);
-//Console.WriteLine("randomNum");
 /*
-int num1, chance = 3, valor = 20;
-while (chance < 3)
-{
-Console.WriteLine("Adivine el numero: ");
-num1 = int.Parse(Console.ReadLine());
-chance = chance + 1;
+
+int num1, num2, contador;
+		
+num2 = 16;
+contador = 1;
+		
+Console.Write("Adivina un número del 1 al 23: ");
+num1=Convert.ToInt32(Console.ReadLine());
+		
+while ((num1 != num2) && (contador < 3)){
+	Console.WriteLine("Número incorrecto.");
+			
+	Console.Write("Prueba de nuevo, Adivina un número del 1 al 23: ");
+	num1=Convert.ToInt32(Console.ReadLine());
+			
+	contador++;			
 }
-Console.WriteLine("Ganaste el numero es {0}",valor); 
-
-
-
+if (num1 == num2)
+	Console.WriteLine("Has acertado el número.");
+else
+	Console.WriteLine("Has agotado tus intentos. No has conseguido acertar.");
 */
+
 //Ejercicio #4
 //Crea un programa que escriba en pantalla los números del 1 al 10, usando "do..while". 
 /*
@@ -180,4 +188,4 @@ Console.WriteLine("Usted tiene o cumplirá {0} años",edad);
 //}
 }
 }
-x 
+
